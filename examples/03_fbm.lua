@@ -36,5 +36,5 @@ function GenerateHeightmap(size)
 
 end
 
--- Generate heightmap with a size of 100x100, with a seed of 45:
-local heightmap = GenerateHeightmap(100, 45)
+-- Generate heightmap with a size of 100x100:
+local heightmap = GenerateHeightmap(100)
